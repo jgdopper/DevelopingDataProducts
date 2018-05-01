@@ -1,0 +1,12 @@
+name: heightprediction
+title: HeightPrediction
+username:
+account: jgdopper
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 334770
+bundleId: 1348940
+url: https://jgdopper.shinyapps.io/heightprediction/
+when: 1525163614.61719
+asMultiple: FALSE
+asStatic: FALSE
